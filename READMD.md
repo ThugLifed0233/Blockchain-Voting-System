@@ -45,9 +45,8 @@ deployedContract.methods.voteForCandidate(web3.utils.asciiToHex('BJP')).send({fr
 //Insert the address of node in from:"Address"<br>
 //Check results<br>
 
-Project Report: https://bit.ly/ProjectReportsOfTanishqWadhwani<br>
-
 
 Thanks! :) </i><br>
 
 Wishing you all the very best!
+Mrinmay Date
